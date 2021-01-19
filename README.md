@@ -14,4 +14,4 @@ Embedded Software Engineer and self-motivated programmer, working in and fascina
 ---
 
 ### :chart_with_upwards_trend: My Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=marcin214&hide=prs,contribs&show_icons=true&theme=nord" alt="my github stats" width="538"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcin214&layout=compact&theme=nord" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=marcin214&hide=prs,contribs&show_icons=true&theme=nord" alt="my github stats" height="150"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcin214&layout=compact&theme=nord" alt="languages" height="150">
