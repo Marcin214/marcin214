@@ -1,4 +1,4 @@
-<img align ="right" width="230" src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" /></a>
+<img align ="right" width="220" src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" /></a>
 
 ### <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi there, I'm Marcin
 
