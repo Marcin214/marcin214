@@ -8,9 +8,9 @@
 </p>
 
 <img src="src/statistics.png" />
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=marcin214&hide=contribs&show_icons=true&text_color=ffffff&title_color=FFD44E&bg_color=000000&icon_color=4BD5EE&custom_title=Padawan`s github statistics" alt="my github stats" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcin214&layout=compact&theme=nord&text_color=ffffff&title_color=FFD44E&bg_color=000000&custom_title=Most used programing forces" alt="languages" height="150">
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=marcin214&hide=contribs&show_icons=true&text_color=ffffff&title_color=FFD44E&bg_color=000000&icon_color=4BD5EE&custom_title=Padawan`s github statistics" alt="my github stats" height="170"/>&nbsp&nbsp
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcin214&layout=compact&theme=nord&text_color=ffffff&title_color=FFD44E&bg_color=000000&custom_title=Most used programing forces" alt="languages" height="170">
     <br>
     <br>
 </p>
